@@ -9,6 +9,9 @@ verify_ssl = true
 pandas = "*"
 jupyterlab = "*"
 matplotlib = "*"
+nltk = "*"
+sklearn = "*"
+yellowbrick = "*"
 
 [requires]
 python_version = "3.7"
