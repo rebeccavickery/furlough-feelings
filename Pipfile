@@ -7,11 +7,16 @@ verify_ssl = true
 
 [packages]
 pandas = "*"
-jupyterlab = "*"
+jupyterlab = "==1.2"
 matplotlib = "*"
 nltk = "*"
 sklearn = "*"
 yellowbrick = "*"
+scattertext = "*"
+spacy = "*"
+plotly = "*"
+ipywidgets = ">=7.5"
+textblob = "*"
 
 [requires]
 python_version = "3.7"
